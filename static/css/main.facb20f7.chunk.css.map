@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,EACI,QAAS,CACT,SACJ,CAEA,QACI,4CACJ","file":"main.facb20f7.chunk.css","sourcesContent":["*{\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\n.navbar{\r\n    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;\r\n}"]}
